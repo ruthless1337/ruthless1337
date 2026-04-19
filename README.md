@@ -2,8 +2,8 @@
 <p align="center" style="color:#ff0000;">FiveM, Discord & Web Developer</p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/keanuudev?label=Followers&style=for-the-badge&color=7f1d1d&labelColor=7f1d1d" />
-  <img src="https://komarev.com/ghpvc/?username=keanuudev&style=for-the-badge&color=7f1d1d" />
+  <img src="https://img.shields.io/github/followers/ruthless1337?label=Followers&style=for-the-badge&color=7f1d1d&labelColor=7f1d1d" />
+  <img src="https://komarev.com/ghpvc/?username=ruthless1337&style=for-the-badge&color=7f1d1d" />
 </p>
 
 <p align="center">
